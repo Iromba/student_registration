@@ -30,11 +30,14 @@ This is a lightweight, secure, and responsive web-based Student Registration Sys
 3. Open your browser and navigate to `http://localhost/phpmyadmin/`. Create a database named `mzumbe_sims` and run the SQL schema included in the setup.
 
 ---
+---
 ### Official Submission to the Instructor
-Dear Mr. @kadefue, 
 
-This is my official project submission for the CSS 221: Introduction to Web Programming assignment coursework. The system represents a High School Student Registration System developed strictly under XHTML, CSS Box Model, JavaScript/jQuery AJAX, and secure PHP PDO Prepared Statements as guided in your lectures. 
+* **To:** Mr. @kadefue / Instructor Email kadefue@yahoo.co.uk
+* **From:** SETT ROGERS IROMBA 143250553/T.24
+* **Course:** CSS 221: Introduction to Web Programming Assignment
 
-Kindly review the source files and documentation. Thank you!
-4. Open the XAMPP Control Panel and boot up both the **Apache HTTP Server** and **MySQL Database** processes.
-5. Launch your browser and navigate to the application pathway: `http://localhost/student_registration/`.
+Dear Instructor, 
+This is my official project submission for the CSS 221 assignment coursework. The system represents a High School Student Registration System developed strictly under XHTML, CSS Box Model, JavaScript/jQuery AJAX, and secure PHP PDO Prepared Statements as guided in your lectures. 
+
+If the GitHub tag notification does not link directly to your profile, please review the repository files directly via this repository link. Thank you!
