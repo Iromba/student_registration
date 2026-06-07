@@ -1,0 +1,62 @@
+/* style.css - Presentation Layer */
+body {
+    font-family: Arial, Helvetica, sans-serif; /* Font Stack Fallback */
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+#container {
+    width: 500px;
+    margin: 40px auto; /* Centering the layout box */
+    background: #ffffff;
+    border: 5px solid #006633; /* Mzumbe Green Border */
+    padding: 25px; /* Box model inner space */
+}
+
+#header {
+    background-color: #006633; /* Mzumbe Green */
+    color: #ffffff;
+    padding: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 20px;
+    color: #FFCC00; /* Mzumbe Gold */
+    margin: 0;
+}
+
+#form-section div {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input[type="text"], select {
+    width: 95%;
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+input[type="submit"] {
+    background-color: #006633;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+input[type="submit"]:hover {
+    background-color: #FFCC00;
+    color: #006633;
+}
+
+.success { color: green; font-weight: bold; }
+.error { color: red; font-weight: bold; }
