@@ -33,7 +33,7 @@ This is a lightweight, secure, and responsive web-based Student Registration Sys
 ---
 ### Official Submission to the Instructor
 
-* **To:** Mr. @kadefue / Instructor Email kadefue@yahoo.co.uk   @kadefue.github
+* **To:** Mr. @kadefue / Instructor Email kadefue@yahoo.co.uk 
 * **From:** SETT ROGERS IROMBA 143250553/T.24
 * **Course:** CSS 221: Introduction to Web Programming Assignment
 
